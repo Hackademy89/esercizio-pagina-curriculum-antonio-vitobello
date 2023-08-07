@@ -1,0 +1,83 @@
+body {
+
+    font-family: 'Roboto Slab', serif;
+
+}
+
+
+h3,
+h2 {
+
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+
+p1{ color: blue;}
+
+
+.img-profilo {
+
+    display: block;
+    width: 50%;
+    margin: 25px auto;
+
+}
+
+
+.mt-1 {
+    margin-bottom: 10px;
+    color: aliceblue;
+
+}
+
+
+.mt-3 {
+
+    margin-bottom: 10px;
+    color: aliceblue;
+
+}
+
+.mt-2 {
+
+    margin-bottom: 10px;
+    color: aliceblue;
+
+}
+
+ul {
+    list-style: none !important;
+    list-style-type: none !important;
+    margin-bottom: 10px;
+    color: aliceblue;
+    padding: 0 !important;
+}
+
+li{ padding: 5px ;}
+
+
+.col-3 {
+   padding-top: 30px !important;
+    padding-left: 45px !important;
+    background-color: rgb(5, 24, 108);
+
+}
+
+.contact {
+
+    color: white;
+
+}
+
+.lingue {
+
+    color: white;
+}
+
+.container-destro
+
+{
+padding:35px 35px 20px 35px;
+
+}
+
